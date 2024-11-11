@@ -10,15 +10,9 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* Generic project styles */
-    color: #3a3a3a;
 }
 
 
-/* Header */
-header {
-    background-color: lightcoral;
-}
 
 /* Main content */
 main {
@@ -62,3 +56,5 @@ footer {
     #depression-card{
         background-color: #f2a007 ;
     }
+
+ 

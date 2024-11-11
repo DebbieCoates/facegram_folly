@@ -46,7 +46,18 @@
                             <a class="nav-link active" aria-current="page" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#issues">Issues</a>
+                            <div class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Issues
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <li><a class="dropdown-item" href="#peerpresure-card">Peer Pressure</a></li>
+                                    <li><a class="dropdown-item" href="#anxiety-card">Anxiety</a></li>
+                                    <li><a class="dropdown-item" href="#stress-card">Stress</a></li>
+                                    <li><a class="dropdown-item" href="#depression-card">Depression</a></li>
+                                </ul>
+                            </div>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#resources">Resources</a>
@@ -59,10 +70,7 @@
             </div>
         </nav>
 
-
-        <section id="issues" class="container my-5">
-
-
+        <heading>
             <div class="card text-center mb-3" style="width: 100%;">
                 <div class="card-body">
                     <h1 style="padding-top: 20px; text-align: center;">Mental Health & Social Media</h1>
@@ -86,13 +94,18 @@
                 </div>
             </div>
 
+        </heading>
+
+
+        <section id="issues" class="container my-5">
+
             <div class="row">
                 <div class="col-md-6">
                     <div class="card" id="peerpresure-card">
                         <!-- immage  -->
                         <img src="assets/images/issue1.jpg" class="card-img-top" alt="Peer Pressure">
                         <div class="card-body">
-                            <h5 class="card-title">Peer Pressure</h5>
+                            <h5 class="card-title display-6">Peer Pressure</h5>
                             <p class="card-text">
                                 Peer pressure means feeling like you have to do something because people around you want
                                 you to or expect you to. It might be to make someone else happy or to fit in with a new
@@ -157,7 +170,7 @@
                     <div class="card" id="anxiety-card">
                         <img src="assets/images/issue4.jpg" class="card-img-top" alt="Anxiety">
                         <div class="card-body">
-                            <h5 class="card-title">Anxiety</h5>
+                            <h5 class="card-title display-6">Anxiety</h5>
                             <p class="card-text">
                                 Anxiety is what we feel when we are worried, tense or afraid – particularly about things
                                 that are about to happen, or which we think could happen in the future. Anxiety is a
@@ -218,7 +231,7 @@
                     <div class="card" id="stress-card">
                         <img src="assets/images/issue4.jpg" class="card-img-top" alt="Stress">
                         <div class="card-body">
-                            <h5 class="card-title">Stress</h5>
+                            <h5 class="card-title display-6">Stress</h5>
                             <p class="card-text">
                                 Stress can be defined as a state of worry or mental tension caused by a difficult
                                 situation. Stress is a natural human response that prompts us to address challenges and
@@ -276,7 +289,7 @@
                     <div class="card" id="depression-card">
                         <img src="assets/images/issue4.jpg" class="card-img-top" alt="Depression">
                         <div class="card-body">
-                            <h5 class="card-title">Depression</h5>
+                            <h5 class="card-title display-6">Depression</h5>
                             <p class="card-text">
                                 Depressive disorder (also known as depression) is a common mental disorder. It involves
                                 a depressed mood or loss of pleasure or interest in activities for long periods of time.

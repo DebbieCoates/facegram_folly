@@ -22,7 +22,6 @@ header {
 
 /* Main content */
 main {
-    background-color: lightblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
@@ -41,4 +40,25 @@ footer {
     }
     a.further-reading:hover {
         text-decoration: underline;
+    }
+
+
+    #issues{
+        background-color: white ;
+    }
+
+    #peerpresure-card{
+        background-color: #f24987 ;
+    }
+
+    #stress-card{
+        background-color: #1f8da6 ;
+    }
+
+    #anxiety-card{
+        background-color: #f25c05 ;
+    }
+
+    #depression-card{
+        background-color: #f2a007 ;
     }

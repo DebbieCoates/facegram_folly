@@ -27,7 +27,18 @@ main {
     flex: 1 0 auto;
 }
 
+
 /* Footer */
 footer {
     background-color: orange;
 }
+
+
+    a.further-reading {
+        color: blue;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    a.further-reading:hover {
+        text-decoration: underline;
+    }

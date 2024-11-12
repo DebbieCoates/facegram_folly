@@ -1,6 +1,4 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Doodle+Shadow&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Doodle+Shadow&display=swap');
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -15,7 +13,6 @@ body {
     display: flex;
     flex-direction: column;
     background-color:#5ee3f2;
-    /* background-color: #5ee3f2  */
 }
 
 
@@ -29,11 +26,10 @@ main {
 #hero{
     height: 600px;
     width: 100%;
-    background: url('../images/mashup.jpeg')no-repeat center center/cover;
+    background: url('../images/mashup.webp')no-repeat center center/cover;
     position: relative;
 
 }
-
 
 
 #home{
@@ -90,31 +86,26 @@ footer,
     text-align: center;
 }
 
-    a.further-reading {
+a.further-reading {
         color: blue;
         text-decoration: none;
         font-weight: bold;
     }
-    a.further-reading:hover {
-        text-decoration: underline;
+
+
+
+a.further-reading:hover {
+     text-decoration: underline;
     }
-
-
-
-    #peerpresure-card{
+#peerpresure-card{
         background-color: #f24987 ;
     }
-
-    #stress-card{
-
+#stress-card{
         background-color: #1f8da6;
-        /* background-color: #5ee3f2 */
     }
-
-    #anxiety-card{
+#anxiety-card{
         background-color: #f25c05 ;
     }
-
-    #depression-card{
+#depression-card{
         background-color: #f2a007 ;
     }

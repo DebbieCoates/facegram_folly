@@ -1,3 +1,7 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Doodle+Shadow&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Doodle+Shadow&display=swap');
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -12,7 +16,12 @@ body {
     flex-direction: column;
 }
 
+#hero{
+    height: 600px;
+    width: 100%;
+    background: url('../images/mashup.jpeg')no-repeat center center/cover;
 
+}
 
 /* Main content */
 main {
@@ -21,10 +30,17 @@ main {
 }
 
 
-/* Footer */
-footer {
-    background-color: orange;
+
+main h6 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
 }
+
+/* Footer*/
+footer {
+    background-color: #f2a007 ;
+} 
 
 
 .footer-icons {

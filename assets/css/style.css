@@ -27,6 +27,19 @@ footer {
 }
 
 
+.footer-icons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    font-size: 40px; /* Increase the font size to make icons larger */
+}
+
+.footer-icons div {
+    flex: 1;
+    text-align: center;
+}
+
     a.further-reading {
         color: blue;
         text-decoration: none;

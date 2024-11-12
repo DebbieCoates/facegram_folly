@@ -14,6 +14,8 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color:#5ee3f2;
+    /* background-color: #5ee3f2  */
 }
 
 
@@ -21,6 +23,7 @@ body {
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+         
 }
 
 #hero{
@@ -97,9 +100,6 @@ footer,
     }
 
 
-    #issues{
-        background-color: white ;
-    }
 
     #peerpresure-card{
         background-color: #f24987 ;
@@ -107,8 +107,8 @@ footer,
 
     #stress-card{
 
-        background-color: #5ee3f2
-  
+        background-color: #1f8da6;
+        /* background-color: #5ee3f2 */
     }
 
     #anxiety-card{

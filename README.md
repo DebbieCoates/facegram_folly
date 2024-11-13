@@ -48,17 +48,20 @@ This website aims  to highlight some of these issues. The idea is to provide the
 
   ### Hero Section
 
-  <img src="assets/images/herosection.webp" alt="nav bar " width="60%" >
+  <img src="assets/images/herosection.webp" alt="Hero Section" width="60%" >
 
 
   ### cards
-  <img src="assets/images/bootstrapcards.webp" alt="nav bar " width="25%" >
+  <img src="assets/images/bootstrapcards.webp" alt="Bootstrap Card" width="25%" >
 
   ### Additional Resources
+
+    ### cards
+  <img src="assets/images/additianalresources.webp" alt="Additional Resources " width="25%" >
   
   ### Social media links in footer
 
-<img src="assets/images/socialmedialinks.webp" alt="nav bar " width="60%" >
+<img src="assets/images/socialmedialinks.webp" alt="Social Media Links" width="60%" >
 
 
 ## TESTING AND VALIDATION

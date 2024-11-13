@@ -27,13 +27,15 @@ Picture of front and link to website
 
   ### Navbar
 
-
+  <img src="assets/images/navbar.png" alt="nav bar " width="600%" >
 
   ### Hero Section
 
   ### Isssues
 
   ### Social media links in footer
+
+    <img src="assets/images/socialmedialinks.png" alt="Social Media Links" width="600%">
 
 ## TESTING AND VALIDATION
 

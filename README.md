@@ -1,9 +1,6 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-
 # FaceGram Folly
 
-Picture of front and link to website
+ <img src="assets/images/herosection.webp" alt="Hero Section" width="60%" >
 
 
 ## OVERVIEW
@@ -31,6 +28,9 @@ This website aims  to highlight some of these issues. The idea is to provide the
 
   ### Wireframe
 
+  <img src="assets/images/wireframe_big.webp" alt="Colour Scheme" height="50%">
+  <img src="assets/images/wireframe_mobile.webp" alt="Colour Scheme" height="50%">
+
   ### Colour Scheme
 
   I used a palette generator to select the main colors of my logo, and created a palette with five colors.
@@ -44,9 +44,13 @@ This website aims  to highlight some of these issues. The idea is to provide the
 
   ### Navbar
 
+  My navbar was based on the lesson learnt in the Love Running section of the course
+
   <img src="assets/images/navbar.png" alt="nav bar " width="60%" >
 
   ### Hero Section
+
+  I had trouble finding a hero sections, in the end I generated an image using Microsoft Designer and AI
 
   <img src="assets/images/herosection.webp" alt="Hero Section" width="60%" >
 
@@ -57,9 +61,14 @@ This website aims  to highlight some of these issues. The idea is to provide the
   ### Additional Resources
 
     ### cards
+
+  I used 4 cards from Bootstrap 5, I colored each card in one of the colors of my palette, but left the background white to emphasize the content.
+
   <img src="assets/images/additianalresources.webp" alt="Additional Resources " width="25%" >
   
   ### Social media links in footer
+
+  I used the social media links and got the icons from font awsome
 
 <img src="assets/images/socialmedialinks.webp" alt="Social Media Links" width="60%" >
 
@@ -112,6 +121,9 @@ https://www.nhs.uk/nhs-services/mental-health-services/
 https://www.mind.org.uk/
 https://www.samaritans.org/
 
+- Code Institute  Tutors
+  - Spencer 
+  -  Amy
 
 
 ## RESOUCES USED
@@ -119,11 +131,19 @@ https://www.samaritans.org/
 - Image Converter
     https://www.freeconvert.com/download
 
+- Bootstrap5
+   ttps://getbootstrap.com/
+
 - used for editing content and help with building my page    
   ms Co-Pilot
 
-  - Spencer 
+- Font awsome for social Media icons
+  https://kit.fontawesome.com/3ab97d3180.js
 
+- Google fonts for the Quicksand font on my webpage
 
+- friends and family for testing
 
+- MS Word for drawing my wireframes
 
+- Snippling tool for capturing my images and screenshots

@@ -44,15 +44,22 @@ This website aims  to highlight some of these issues. The idea is to provide the
 
   ### Navbar
 
-  <img src="assets/images/navbar.png" alt="nav bar " width="600%" >
+  <img src="assets/images/navbar.png" alt="nav bar " width="60%" >
 
   ### Hero Section
 
-  ### cards
+  <img src="assets/images/herosection.webp" alt="nav bar " width="60%" >
 
+
+  ### cards
+  <img src="assets/images/bootstrapcards.webp" alt="nav bar " width="25%" >
+
+  ### Additional Resources
+  
   ### Social media links in footer
 
-    <img src="assets/images/socialmedialinks.webp alt="Social Media Links" width="600%">
+<img src="assets/images/socialmedialinks.webp" alt="nav bar " width="60%" >
+
 
 ## TESTING AND VALIDATION
 
